@@ -1,6 +1,6 @@
 {
     "name": "kazeeem/laravel-flexible-countdown",
-    "description": "This package allows you to create countdown timer on the go. It's very easy to use and understand and modify.",
+    "description": "This Laravel package allows you to create countdown timer on the go. It's very easy to use and understand and modify.",
     "type": "library",
     "license": "mit",
     "autoload": {

@@ -47,8 +47,16 @@ To clone and use this plugin, you'll need [Jquery 3.6.0 and above](https://cdnjs
 # Via Composer 
 * composer require kazeeem/laravel-flexible-countdown
 
+# Optional: The service provider will automatically get registered. Or you may manually add the service provider in your config/app.php file:
+*   'providers' => [
+        // ...
+        Kazeeem\FlexibleCountdown\FlexibleCountdownServiceProvider::class,
+    ];
+
 # Publish the asset
-* Run this artisan command: php artisan vendor:publish --tag=public --force
+$ Run this artisan command: 
+* php artisan vendor:publish --tag=public --force
+
 ```
 
 ![screenshot](https://codingkaz.com.ng/images/carbon.png)
