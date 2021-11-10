@@ -9,17 +9,17 @@
 <h4 align="center">Flexible Countdown is a special countdown timer for Laravel built on <a href="https://day.js.org/" target="_blank">DayJs Library</a>.</h4>
 
 <p align="center">
-  <a href="https://img.shields.io/github/v/release/Kazeeem/flexible-countdown?label=Latest%20Release">
-    <img src="https://img.shields.io/github/v/release/Kazeeem/flexible-countdown?label=Latest%20Release">
+  <a href="https://img.shields.io/github/v/release/Kazeeem/laravel-flexible-countdown?label=Latest%20Release">
+    <img src="https://img.shields.io/github/v/release/Kazeeem/laravel-flexible-countdown?label=Latest%20Release">
   </a>
-  <a href="https://img.shields.io/github/last-commit/Kazeeem/flexible-countdown">
-    <img src="https://img.shields.io/github/last-commit/Kazeeem/flexible-countdown">
+  <a href="https://img.shields.io/github/last-commit/Kazeeem/laravel-flexible-countdown">
+    <img src="https://img.shields.io/github/last-commit/Kazeeem/laravel-flexible-countdown">
   </a>
-  <a href="https://img.shields.io/github/forks/Kazeeem/flexible-countdown?style=social">
-    <img src="https://img.shields.io/github/forks/Kazeeem/flexible-countdown?style=social">
+  <a href="https://img.shields.io/github/forks/Kazeeem/laravel-flexible-countdown?style=social">
+    <img src="https://img.shields.io/github/forks/Kazeeem/laravel-flexible-countdown?style=social">
   </a>    
-  <a href="https://img.shields.io/github/license/Kazeeem/flexible-countdown">
-    <img src="https://img.shields.io/github/license/Kazeeem/flexible-countdown">
+  <a href="https://img.shields.io/github/license/Kazeeem/laravel-flexible-countdown">
+    <img src="https://img.shields.io/github/license/Kazeeem/laravel-flexible-countdown">
   </a>
 </p>
   
