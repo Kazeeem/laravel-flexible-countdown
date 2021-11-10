@@ -5,7 +5,7 @@
     "license": "mit",
     "autoload": {
         "psr-4": {
-            "Kazeeem\\FlexibleCountdown\\": "src/"
+            "Kazeeem\\FlexibleCountdown\\": "kazeeem/src/"
         }
     },
     "authors": [
