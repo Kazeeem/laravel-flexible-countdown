@@ -41,10 +41,10 @@
 * Easy to modify.
 
 ## How To Use
-To clone and use this plugin, you'll need [Jquery 3.6.0 and above](https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js)
+This package requires the use of [Jquery 3.6.0 and above](https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js)
 
 ```bash
-# Via Composer 
+# Install via Composer 
 * composer require kazeeem/laravel-flexible-countdown
 
 # Optional: The service provider will automatically get registered. Or you may manually add the service provider in your config/app.php file:
@@ -60,7 +60,7 @@ $ Run this artisan command:
 ```
 
 ![screenshot](https://codingkaz.com.ng/images/carbon.png)
-# You can use the plugin as it is in the sample above
+# You can create a countdown timer as it is in the sample above
 However, there are some optional parameters you may want to use as well:
 * expiry_message
   - This is the message you may want to display when the timer reaches zero. If this value is not passed, the default message is "Time Up"
@@ -83,7 +83,7 @@ However, there are some optional parameters you may want to use as well:
 ![screenshot](https://codingkaz.com.ng/images/carbon1.png)
 
 ## Credits
-This plugin uses the following libraries:
+This countdown package uses the following library:
 - [Dayjs](https://day.js.org/) and its plugins (Timezone and Duration).
 
 ## License
